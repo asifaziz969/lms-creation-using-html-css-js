@@ -1,0 +1,41 @@
+.nav-wraper-outer {
+  color: rgb(98, 59, 8);
+  background-color: aqua !important;
+  /* position: fixed; */
+}
+
+.right {
+  display: flex;
+  justify-content: space-between;
+}
+.right a {
+  margin: 12px;
+}
+
+/* main body*/
+.main-body {
+  width: 30px;
+  height: 70px;
+}
+
+/* .nav-bar-top {
+  display: flex;
+}
+ul {
+  display: flex;
+}
+*/
+ul li {
+  list-style: none;
+  padding: 10px;
+}
+ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.left-sidebar {
+  width: 200px;
+  height: 100vh;
+  background-color: #075fad;
+}
